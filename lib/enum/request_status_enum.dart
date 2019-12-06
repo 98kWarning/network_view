@@ -1,0 +1,7 @@
+enum RequestStatusEnum{
+  SUCCESS,
+  EMPTY,
+  SERVER_ERROR,
+  NETWORK_ERROR,
+  APP_ERROR
+}
